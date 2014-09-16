@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'mina/reboot/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "mina_reboot"
+  spec.name          = "mina-reboot"
   spec.version       = MinaReboot::VERSION
   spec.authors       = ["Gregory Eremin"]
   spec.email         = ["g@erem.in"]

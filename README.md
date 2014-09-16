@@ -7,7 +7,7 @@ Generates cron `@reboot` task every time you deploy with [Mina](http://nadarei.c
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'mina_reboot'
+gem 'mina-reboot'
 ```
 
 ## Usage
