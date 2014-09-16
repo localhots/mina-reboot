@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = MinaReboot::VERSION
   spec.authors       = ["Gregory Eremin"]
   spec.email         = ["g@erem.in"]
-  spec.summary       = %q{Generates cron @reboot script from Minafile}
-  spec.description   = %q{Generates cron @reboot script from Minafile every time you deploy, so your app will start automatically in case of server reboot}
+  spec.summary       = %q{Generates cron @reboot task from Mina deploy config}
+  spec.description   = %q{Generates cron @reboot task every time you deploy with Mina, so your app will start automatically in case of server reboot}
   spec.homepage      = "https://github.com/localhots/mina_reboot"
   spec.license       = "MIT"
 
